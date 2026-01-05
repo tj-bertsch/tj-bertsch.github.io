@@ -152,7 +152,7 @@ footer:
       # url:
   since: "2013"
 
-
+collections: portfolio: output: true
 # Reading Files
 include:
   - .htaccess
